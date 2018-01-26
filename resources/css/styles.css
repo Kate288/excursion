@@ -9,7 +9,6 @@ body {
 }
 
 h1 {
-  position: absolute;
   text-align: center;
   font-size:50px;
   font-weight: normal;
@@ -22,10 +21,8 @@ h4 {
 }
 
 video {
-  position: absolute;
-  align: center;
+  text-align: center;
 }
 img {
-  position: absolute;
   align: center;
 }
